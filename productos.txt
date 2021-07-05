@@ -2,12 +2,19 @@
 	{
 		"title": "producto1",
 		"price": 100,
-		"thumbnail": "url1"
+		"thumbnail": "url1",
+		"id": 1
 	},
 	{
 		"title": "producto2",
 		"price": 150,
 		"thumbnail": "url2",
 		"id": 2
+	},
+	{
+		"title": "producto3",
+		"price": 175,
+		"thumbnail": "url3",
+		"id": 3
 	}
 ]
