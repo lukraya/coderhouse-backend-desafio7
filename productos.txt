@@ -1,1 +1,13 @@
-[{"title":"producto1", "price":100, "thumbnail":"url1"}]
+[
+	{
+		"title": "producto1",
+		"price": 100,
+		"thumbnail": "url1"
+	},
+	{
+		"title": "producto2",
+		"price": 150,
+		"thumbnail": "url2",
+		"id": 2
+	}
+]
